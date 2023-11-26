@@ -1,18 +1,28 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 💜 Olá, meu nome é <strong>Felipe Alves!</strong>
+## 🖖 Olá, meu nome é <strong>Felipe Alves!</strong>
 <h3> Sou um apaixonado por programação e tecnologia!</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formação em **Front-End** pelo <a href="https://www.amontadavalley.com.br">Amontada Valley</a>.
 - 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://www.origamid.com/">Origamid</a>.
 - 💼 Trabalhando como **Designer** no <a href="https://joga10news.com/">Joga10News</a>
 
 ## 🚀 Minhas Skills
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,ps,react,tailwind,sass,ts," />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,sass,ts," />
+  </a>
+</p>
+
+<br/>
+
+## 🛠️Ferramentas de desenvolvimento
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,git,ps,figma,vscode," />
   </a>
 </p>
 
