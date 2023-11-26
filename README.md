@@ -32,7 +32,7 @@
 
 <br>
 
-###Minhas redes:
+### 📱 Minhas redes:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-alves-6a67b6256" title="LinkedIn">
