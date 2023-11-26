@@ -16,8 +16,6 @@
   </a>
 </p>
 
-<br/>
-
 ## 🛠️Ferramentas de desenvolvimento
 
 <p align="left">
@@ -26,7 +24,7 @@
   </a>
 </p>
 
-<br/>
+### 📊 Estatísticas
 
 <a href="https://github.com/felipealvescr" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvescr&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
@@ -34,7 +32,7 @@
 
 <br>
 
-<h3>Minhas redes:</h3>
+###Minhas redes:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-alves-6a67b6256" title="LinkedIn">
