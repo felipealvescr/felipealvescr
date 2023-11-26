@@ -1,16 +1,39 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**felipealvescr/felipealvescr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💜 Olá, meu nome é <strong>Felipe Alves!</strong>
+<h3> Sou um apaixonado por programação e tecnologia!</h3>
 
-Here are some ideas to get you started:
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Formação em **Front-End** pelo <a href="https://www.amontadavalley.com.br">Amontada Valley</a>.
+- 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://www.origamid.com/">Origamid</a>.
+- 💼 Trabalhando como **Designer** no <a href="https://joga10news.com/">Joga10News</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,ps,react,tailwind,sass,ts," />
+  </a>
+</p>
+
+<br/>
+
+<a href="https://github.com/felipealvescr" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvescr&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+
+<br>
+
+<h3>Minhas redes:</h3>
+
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-alves-6a67b6256/" alt="LinkedIn"/></a>
+
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5588996082479" alt="WhatsApp"/></a>
+
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/felipealvescr/" alt="Instagram"/></a>
+</p>
+
